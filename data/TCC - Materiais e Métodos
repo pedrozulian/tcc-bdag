@@ -1,0 +1,97 @@
+<mxfile host="app.diagrams.net" modified="2021-04-02T22:07:28.108Z" agent="5.0 (X11)" etag="ZoQR_WpMYGPD06tyAvrF" version="14.5.6" type="github">
+  <diagram id="TTavuPUBnE8uCrAbVT5Y" name="Page-1">
+    <mxGraphModel dx="1350" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-1" target="P-iF4bocrVOtOi6yjpHV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-1" value="&lt;b&gt;Dados&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-2" target="P-iF4bocrVOtOi6yjpHV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-2" target="P-iF4bocrVOtOi6yjpHV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-2" value="&lt;b&gt;Modelos de regressão e redes neurais&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-3" target="P-iF4bocrVOtOi6yjpHV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-3" target="P-iF4bocrVOtOi6yjpHV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-3" target="P-iF4bocrVOtOi6yjpHV-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-3" value="&lt;div&gt;&lt;b&gt;Ambiente de desenvolvimento&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-4" target="P-iF4bocrVOtOi6yjpHV-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-4" value="Obtidos através do CEPEA (Centro de Estudos Avançados em Economia Aplicada)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="500" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-8" value="IDE: VSCode e Jupyter Notebook" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-10" target="P-iF4bocrVOtOi6yjpHV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-10" value="Biblíotecas e pacotes utilizados" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-12" value="&lt;div&gt;notebook 6.3.0&lt;/div&gt;&lt;div&gt;scikit-learn 0.24.1&lt;/div&gt;&lt;div&gt;pandas 1.2.2&lt;/div&gt;&lt;div&gt;numpy 1.19.5&lt;/div&gt;&lt;div&gt;matplotlib 3.3.4&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="240" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-14" target="P-iF4bocrVOtOi6yjpHV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-14" value="Modelos do Scikit Learn para Regressão" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-16" value="&lt;div&gt;LinearRegression&lt;/div&gt;&lt;div&gt;KNeighborsRegressor&lt;/div&gt;&lt;div&gt;DecisionTreeRegressor&lt;/div&gt;&lt;div&gt;DummyRegressor&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-18" target="P-iF4bocrVOtOi6yjpHV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-18" value="Modelo de Rede Neural do Scikit Learn" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-20" value="MLP Regressor" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-22" value="CEPEA-Esalq/USP" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="590" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-24" value="OS: Linux e iOS" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-26" target="P-iF4bocrVOtOi6yjpHV-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-26" target="P-iF4bocrVOtOi6yjpHV-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-26" value="Linguagens" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P-iF4bocrVOtOi6yjpHV-29" target="P-iF4bocrVOtOi6yjpHV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-29" value="Python" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P-iF4bocrVOtOi6yjpHV-32" value="JavaScript" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
